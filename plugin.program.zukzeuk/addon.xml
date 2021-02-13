@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.zukzeuk" name="[COLOR red]Zuk[/COLOR][COLOR green]Zeuk[/COLOR] WIZARD" version="0.0.7" provider-name="zukzeuk">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR red]Zuk[/COLOR][COLOR green]Zeuk[/COLOR] WIZARD</summary>
+    <description lang="en">Build para Kodi 18
+Web: www.stva.ga
+Telegram: t.me/stvabuild</description>
+<news>- Eliminada seccion principal, Instalador de addons.
+- Eliminada seccion principal, Contacto. 
+- Reparada ventana emergente de informacion, ahora vuelve a saltar con avisos. 
+- Ahora en la seccion Bases y Parches, aparece la version instalada.
+- Al ir a instalar una Base o Parche, nos da la opcion de Copias de Seguridad.
+- Eliminado item de informacion de la version.
+- Ahora solo tendremos una opcion de instalacion dependiendo de si es Base o Parche.
+ </news>
+    <platform>all</platform>
+  </extension>
+</addon>
