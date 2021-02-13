@@ -1,2 +1,5 @@
 v0.0.7 - 12/2/21
 - Version inicial
+
+v0.0.8 - 13/2/21
+- Version alpha

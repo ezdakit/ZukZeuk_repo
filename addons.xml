@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.zukzeuk"  version="0.0.7" name="ZukZeuk WIZARD" provider-name="ZukZeuk">
+<addon id="plugin.program.zukzeuk"  version="0.0.8" name="ZukZeuk WIZARD" provider-name="ZukZeuk">
 	<requires>
 		<import addon="xbmc.gui" version="5.14.0" />
 	</requires>
@@ -19,7 +19,7 @@
 		<website>stva.ga</website>
 		<email />
 <news>
-Versión 0.0.7
+Versión 0.0.8 alpha
 </news>
 		<assets>
 			<icon>icon.png</icon>
