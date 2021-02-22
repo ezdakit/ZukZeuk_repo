@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.zukzeuk" name="[COLOR red]Zuk[/COLOR][COLOR green]Zeuk[/COLOR] WIZARD" version="0.0.9" provider-name="zukzeuk">
+<addon id="plugin.program.zukzeuk" name="ZukZeuk WIZARD" version="0.1.0" provider-name="zukzeuk">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -8,8 +8,10 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR red]Zuk[/COLOR][COLOR green]Zeuk[/COLOR] WIZARD</summary>
-    <description lang="en">Wizard para Kodi 18</description>
+    <summary lang="en">ZukZeuk WIZARD</summary>
+	<summary lang="es">ZukZeuk WIZARD</summary>
+    <description lang="en">Wizard para Kodi</description>
+	<description lang="es">Wizard para Kodi</description>
 <news>Versiones alpha.
  </news>
     <platform>all</platform>

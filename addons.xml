@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.program.zukzeuk"
-  version="0.0.9"
+  version="0.1.0"
   name="ZukZeuk WIZARD"
   provider-name="ZukZeuk">
   <requires>
