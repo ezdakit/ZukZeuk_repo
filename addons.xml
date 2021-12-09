@@ -62,7 +62,7 @@
 </addon>
 
 <addon id="repository.zukzeuk" name="ZukZeuk REPO" version="0.1" provider-name="ZukZeuk">
-	<extension point="xbmc.addon.repository" name="STVA Repo">
+	<extension point="xbmc.addon.repository" name="ZukZeuk">
 		<info compressed="false">https://raw.githubusercontent.com/ezdakit/ZukZeuk_repo/main/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/ezdakit/ZukZeuk_repo/main/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/ezdakit/ZukZeuk_repo/main</datadir>
