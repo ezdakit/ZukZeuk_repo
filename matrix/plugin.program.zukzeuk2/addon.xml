@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.zukzeuk2" name="ZukZeuk2" version="2.1.0" provider-name="zukzeuk">
+<addon id="plugin.program.zukzeuk2" name="ZukZeuk2" version="2.2.0" provider-name="zukzeuk">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -15,7 +15,7 @@
     <extension point="xbmc.service" library="startup.py" start="startup" />
     
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">ZukZeuk 2 for kodi 19 (matrix)</summary>
+        <summary lang="en">ZukZeuk 2 for kodi</summary>
         <description lang="en">zukzeuk offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
