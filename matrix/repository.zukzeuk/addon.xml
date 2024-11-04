@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.zukzeuk" name="ZukZeuk REPO" version="2.0" provider-name="ZukZeuk">
+    <extension point="xbmc.addon.repository" name="ZukZeuk REPO">
+        <dir minversion="19.0">
+			<info compressed="false">https://raw.githubusercontent.com/ezdakit/ZukZeuk_repo/main/version/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/ezdakit/ZukZeuk_repo/main/version/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/ezdakit/ZukZeuk_repo/main/version/</datadir>
+        </dir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>ZukZeuk</summary>
+        <description>ZukZeuk Repositorio.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <source>https://github.com/ezdakit/ZukZeuk_repo</source>
+    </extension>
+</addon>
