@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.zukzeuk2" name="ZukZeuk2 WIZARD" version="2.4.1" provider-name="ZukZeuk">
+<addon id="plugin.program.zukzeuk2" name="ZukZeuk2 WIZARD" version="2.4.2" provider-name="ZukZeuk">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
